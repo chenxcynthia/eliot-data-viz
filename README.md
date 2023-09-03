@@ -8,6 +8,6 @@ As someone interested in using data visualization to draw out patterns at scale,
 Some questions I grappled with in this process were:
 - How I capture the essence of the diversity and intellectual breadth of students in Eliot?
 - What is the best way to show connections between students visually?
-- How can I encode personal student information (e.g. hometown, concentration, class) while maintaining data privacy and anonymity?
+- How can I encode and represent individual information (e.g. hometown, concentration, class) in the visualization while maintaining data privacy and anonymity?
 
 This project was completed as part of the Eliot Community Artist Fellowship. Many thanks to all the Eliot students who participated in the data collection survery and to Anne Lheem, Stephanie Paulsell, and Andi Wright for their support. If you have any thoughts or questions on this work, I'd love to [hear from you]("mailto:cynthiachen@college.harvard.edu").

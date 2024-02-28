@@ -1,4 +1,4 @@
-# Visualizing Connections in Eliot House 🐘 
+# Visualizing Connections in Eliot House
 _An artistic data visualization of the connections made between individuals in Eliot House at Harvard University._
 
 [Eliot House](https://eliot.harvard.edu/), one of the twelve residential houses at Harvard, is a special place for all who know it. From the bustling dining hall packed with students working on problem sets together until the wee hours of morning, to the familiar friendly faces of the house staff, Eliot is a welcoming home of unity among diversity. As a resident of Eliot from 2021 to 2024, I have made some of my closest and most cherished relationships on campus through Eliot, and I will always be grateful Eliot's for vibrant and tight-knit house community.

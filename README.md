@@ -14,7 +14,7 @@ Some of the main questions I considered when making the visualization were:
 
 **Read more about this project and how it was made [here](https://chenxcynthia.github.io/projects/eliot/).**
 
-The final visualization piece (later installed in the Eliot Junior Common Room as an art piece!):
-![EliotFinal](EliotFinal.png)
-
 This project was completed as part of the Eliot Community Artist Fellowship. Many thanks to all the Eliot students who participated in the data collection survery and to Anne Lheem, Stephanie Paulsell, and Andi Wright for their support. If you have any thoughts or questions on this work, I'd love to [hear from you]("mailto:cynthiachen@college.harvard.edu").
+
+
+
